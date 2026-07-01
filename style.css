@@ -1,1 +1,20 @@
-
+body{
+    background-color:#735D35 ;
+    color:aliceblue
+}
+header{
+    background-color: #4A340D;
+    color:aliceblue;
+}
+main{
+    background-color: #665843;
+    color:aliceblue;
+}
+section{
+    background-color: #80774E;
+    color:aliceblue;
+}
+footer{
+    background-color: #D69E5E;
+    color:aliceblue;
+}
