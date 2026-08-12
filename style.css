@@ -20,3 +20,26 @@ p{
     font-size: 18px;
     line-height: 1.6;
 }
+main{
+    width: 80%;
+    margin: auto;
+}
+section {
+    background-color:#4A340D;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color:#f8f8f7;
+    margin-top: 8px;
+}
