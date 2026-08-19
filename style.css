@@ -34,7 +34,7 @@ display : inline-block;
 }
 
 nav a:hover {
-    background-color:#4A340D;
+    background-color:#9c7d46;
 }
 
 main{
@@ -42,7 +42,7 @@ main{
     margin: auto;
 }
 section {
-    background-color:#4A340D;
+    background-color:#c28010;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -72,7 +72,7 @@ padding: 15px;
     margin-top: 0;
 }
 footer {
-    background-color: #4A340D;
+    background-color: #524735;
      color: white; 
      text-align:center;
 padding: 20px; 
