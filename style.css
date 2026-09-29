@@ -1,12 +1,13 @@
-body{
-    background-color:#735D35 ;
-    color:aliceblue;
-    font-family: arial, sans-serif;
+body {
+    background-color: #735D35;
+    color: aliceblue;
+    font-family: Arial, sans-serif;
     margin: 0;
 }
-header{
+
+header {
     background-color: #4A340D;
-    color:aliceblue;
+    color: aliceblue;
     text-align: center;
     padding: 30px;
 }
@@ -14,39 +15,46 @@ header{
 h1 {
     font-size: 36px;
 }
+
 h2 {
-    color:aliceblue
+    color: aliceblue
 }
-p{
+
+p {
     font-size: 18px;
     line-height: 1.6;
 }
+
 nav {
     margin-top: 20px;
 }
-nav a {color: #4A340D;
-text-decoration: none;
-background-color:#735D35;
- padding: 10px 15px; 
- border-radius: 8px:
-  margin: 5px;
-display : inline-block;
+
+nav a {
+    color: #4A340D;
+    text-decoration: none;
+    background-color: #735D35;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
 }
 
 nav a:hover {
-    background-color:#9c7d46;
+    background-color: #9c7d46;
 }
 
-main{
+main {
     width: 80%;
     margin: auto;
 }
+
 section {
-    background-color:#c28010;
+    background-color: #c28010;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
 }
+
 img {
     width: 100%;
     max-width: 600px;
@@ -54,38 +62,49 @@ img {
     margin: auto;
     border-radius: 12px;
 }
+
 figcaption {
     text-align: center;
     font-size: 14px;
-    color:#f8f8f7;
+    color: #f8f8f7;
     margin-top: 8px;
 }
-.card { 
-    background-color:#735D35
-padding: 15px;
- margin: 15px 0;
-  border-left: 6px solid #6b2d5c ;
-   border-radius: 10px;
+
+.card {
+    background-color: #735D35;
+    padding: 15px;
+    margin: 15px 0;
+    border-left: 6px solid #6b2d5c;
+    border-radius: 10px;
 }
 
-.card h3{
+.card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #524735;
-     color: white; 
-     text-align:center;
-padding: 20px; 
-margin-top: 30px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
-button{
+
+button {
     background-color: darkolivegreen;
-    color:aliceblue;
+    color: aliceblue;
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
 }
-button:hover{
+
+button:hover {
     background-color: darkgreen;
+}
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
 }
