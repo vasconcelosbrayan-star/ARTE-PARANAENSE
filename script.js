@@ -5,7 +5,7 @@ botoesCurtir.ForEach(function(botaoCurtir){
     function curtir (){
         const contador = botaoCurtir.querySelector("span");
         if(curtiu === false){
-            contador.textContent++;0
+            contador.textContent++;
             curtiu = true;
         }
 else {
