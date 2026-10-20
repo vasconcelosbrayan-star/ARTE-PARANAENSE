@@ -3,7 +3,7 @@
     --cor-texto:aliceblue ;
     --cor-principal:#4A340D ;
     --cor-secundaria:#af722c ;
-    --cor-houver:#c28010 ;
+    --cor-hover:#c28010 ;
     --cor-superficie:darkolivegreen ;
     --cor-card:#524735 ;
     --cor-legenda:#00ff37 ;
@@ -52,7 +52,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: var(--cor-houver);
+    background-color: var(--cor-hover);
 }
 
 main {
@@ -112,7 +112,7 @@ button {
 }
 
 button:hover {
-    background-color: var(--cor-houver);
+    background-color: var(--cor-hover);
 }
 
 .curtir {
